@@ -37,7 +37,7 @@ Tested and working in:
 - Icons: [Boxicons](https://boxicons.com)
 - Map: [Google Maps](https://maps.google.com)
 
-## Screenshots
+## Screenshot
 
 ![ABC Optical Homepage](image\screencapture.png)
 
