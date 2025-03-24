@@ -39,6 +39,6 @@ Tested and working in:
 
 ## Screenshot
 
-![ABC Optical page](image/screencapture.png)
+![ABC Optical page](image/screenshot.png)
 
 Copyright © Chun-Huan Lee 2025
