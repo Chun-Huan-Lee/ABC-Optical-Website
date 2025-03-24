@@ -36,3 +36,9 @@ Tested and working in:
 - Fonts: [Google Fonts](https://fonts.google.com)
 - Icons: [Boxicons](https://boxicons.com)
 - Map: [Google Maps](https://maps.google.com)
+
+## Screenshots
+
+![ABC Optical Homepage](image\screencapture.png)
+
+Copyright © Chun-Huan Lee 2025
