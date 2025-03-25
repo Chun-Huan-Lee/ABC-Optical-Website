@@ -14,7 +14,7 @@ A professional website for ABC Optical, an eyewear and vision care provider base
 - CSS3
 - JavaScript (ES6+)
 - Google Maps API
-- Boxicons icon library
+- [Boxicons icon library](https://boxicons.com/usage)
 
 ## Setup
 1. Clone the repository
